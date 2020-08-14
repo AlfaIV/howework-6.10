@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+}
+
+div{
+    display: block;
+    position: fixed;
+    height: 84px;
+    width: 100%;
+    margin: 0px;
+    background-color: #007765;
+}
+
+div > nav{
+    display:block;
+    margin: auto;
+    margin-top: 20px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: ivory;
+
+    
+    /* identical to box height */
+
+text-align: center;
+}
+nav > img{
+    display: inline-block;
+    width: 185px;
+    height: 45px;
+    background-color: #007765;;
+    color: #007765;
+    margin-right: 502px;
+}
+nav > table{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+tr > td{
+    padding: 0 4px;
+    border-image: url();
+}
